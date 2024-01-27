@@ -18,7 +18,7 @@ setuptools.setup(
     include_package_data=True,
     install_requires=['typing',
     'dataclasses',
-    'sklearn',
+    'scikit-learn',
     'numpy',
     'scipy',
     'statsmodels',
